@@ -11,4 +11,4 @@ This Github repository will be linked to Google Colaboratory, Jupyter Notebook a
 # Main Findings
 The main finding of this investigation was our CNN-SVM ensemble produced an accuracy of 95% across 2,400 test images. The pre-existing CNN architectures used were mostly high performing, some even achieving well over 99% accuracy.
 
-![alt text](http://url/to/ML Ensembled Test Accuracies.png)
+![alt text](https://github.com/KoraySali/Dissertation_Archive/blob/c42a8902444419737c173227298aa029a3c68092/ML%20Ensembled%20Test%20Accuracies.png)
