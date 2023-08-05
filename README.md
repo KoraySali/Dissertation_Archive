@@ -23,7 +23,7 @@ The applicability of this model to all scenarios means small and/or early wildfi
 
 To demonstrate the ability of CNN-based models further, I wanted to take snapshots from a live feed of my computers webcam and process these images to be identified by the model. This can be used to leverage current low-level technology CCTV systems, which most wildfire teams tend to use.
 
-![alt text]()
+![alt text](https://github.com/KoraySali/Dissertation_Archive/blob/d6ef2fdd01f63e0d1848b414781d9af4f4ba3371/Camera%20Functionality%20Webcam%20Example%20CROPPED.png)
 
 ## Website Front-end
 
