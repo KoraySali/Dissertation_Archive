@@ -17,7 +17,7 @@ Throughout completion of this project a variety of graphs, tables and other visu
 
 The applicability of this model to all scenarios means small and/or early wildfires can be dealt with quickly, therefore preventing the spread of damage and reducing costs. The model is also able to identify smoke as well as regarding images with neither smoke or fire as, "No Fire or Smoke."
 
-![alt text]()
+![alt text](https://github.com/KoraySali/Dissertation_Archive/blob/ce320e158786d268ef4100d587b7e530dff443b1/Validation%20Accuracy.png)
 
 ## External Camera Utility
 
