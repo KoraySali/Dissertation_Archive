@@ -29,4 +29,4 @@ To demonstrate the ability of CNN-based models further, I wanted to take snapsho
 
 This was further paired with a front-end website so wildfire surveillance teams can input macro-imagery into the CNN model at any given time and recieve an output of what the image contains. This was particularly useful if the fire is unobservable or unobvious to the human eye.
 
-![alt text]()
+![alt text](https://github.com/KoraySali/Dissertation_Archive/blob/ac1870d880a84438bf40fd3bcee34a3be033c8de/Backend%20Pycharm%20Diagram.jpg)
